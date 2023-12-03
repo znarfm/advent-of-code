@@ -6,14 +6,13 @@
 
 ### Part 1
 
-Read each line of the input.
-Get the string after `:`, it is the sets for each game.
-Separate sets with `;` as the delimiter.
-Separate each cube using `, `.
-Separate quantity and color of the cube using whitespace ` ` as the delimiter.
-Now, check if quantity exceeds cube color quantity limit.
-If one of the cubes exceeds the limit, break from the loops so that we can iterate to another game number.
-Otherwise, record the game number.
+1. Read each line of the input.
+2. Get the string after `:`, it is the sets for each game
+3. Separate sets with `;` as the delimiter.
+4. Separate each cube using `, `.
+5. Separate quantity and color of the cube using whitespace ` ` as the delimiter.
+6. Now, check if quantity exceeds cube color quantity limit.
+7. If one of the cubes exceeds the limit, break from the loops so that we can iterate to another game number. Otherwise, record the game number.
 
 ### Part 2
 
