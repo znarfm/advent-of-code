@@ -6,9 +6,9 @@
 
 ### Part 1
 
-Iterate each char in every line.
-Check if the char is a digit, append it to a temp list.
-Get the first and last element of that list, convert it to int then add to `sum` variable.
+1. Iterate each char in every line.
+2. Check if the char is a digit, append it to a temp list.
+3. Get the first and last element of that list, convert it to int then add to `sum` variable.
 
 ### Part 2
 
